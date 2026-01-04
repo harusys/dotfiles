@@ -14,6 +14,9 @@ defaults write com.apple.finder ShowPathbar -bool true          # display the pa
 # Keyboard
 defaults write -g ApplePressAndHoldEnabled -bool false          # disable "press and hold" configuration
 
+# Wi-Fi
+sudo networksetup -setdnsservers Wi-Fi 2001:4860:4860::8844 2001:4860:4860::8888 8.8.4.4 8.8.8.8 # Google Public DNS (IPv4 / IPv6)
+
 for app in \
     "Dock" \
 	"Finder" \
