@@ -1,0 +1,6 @@
+# common
+export PS1="%. $ "
+alias xargs="gxargs"
+
+# mise
+eval "$(/opt/homebrew/bin/mise activate zsh)"
