@@ -1,9 +1,9 @@
-{{ if eq .chezmoi.os "darwin" }}
+{{- if eq .chezmoi.os "darwin" -}}
 #!/bin/bash
 echo "🍏  Setting macOS defaults" # ref. https://macos-defaults.com/
 
 # Dock
-defaults write com.apple.dock autohide -bool false              # autohide when the mouse is out
+defaults write com.apple.dock autohide -bool true               # autohide when the mouse is out
 defaults write com.apple.dock show-recents -bool false          # hide recent apps
 
 # Finder
@@ -20,4 +20,6 @@ for app in \
 	"SystemUIServer"; do
 	killall "${app}" &>/dev/null
 done
-{{ end }}
+
+EOF
+{{ end -}}
