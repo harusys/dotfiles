@@ -1,3 +1,14 @@
 [tools]
-node = "latest"
+# Programming Languages
 go = "latest"
+node = "latest"
+python = "latest"
+
+# IaC
+terraform = "latest"
+
+# npm Packages
+"npm:@anthropic-ai/claude-code" = "latest"
+"npm:@google/gemini-cli" = "latest"
+"npm:@openai/codex" = "latest"
+
