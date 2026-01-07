@@ -7,6 +7,13 @@ python = "latest"
 # IaC
 terraform = "latest"
 
+# Tools
+fzf = "latest"
+gcloud = "latest"
+kubectl = "latest"
+kubectx = "latest"
+kubens = "latest"
+
 # npm Packages
 "npm:@anthropic-ai/claude-code" = "latest"
 "npm:@google/gemini-cli" = "latest"
