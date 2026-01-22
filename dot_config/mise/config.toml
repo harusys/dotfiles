@@ -13,6 +13,7 @@ gcloud = "latest"
 kubectl = "latest"
 kubectx = "latest"
 kubens = "latest"
+pnpm = "latest"
 uv = "latest"
 
 # npm Packages
