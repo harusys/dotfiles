@@ -13,9 +13,10 @@ gcloud = "latest"
 kubectl = "latest"
 kubectx = "latest"
 kubens = "latest"
+uv = "latest"
 
 # npm Packages
 "npm:@anthropic-ai/claude-code" = "latest"
 "npm:@google/gemini-cli" = "latest"
 "npm:@openai/codex" = "latest"
-
+"npm:rulesync" = "latest"
