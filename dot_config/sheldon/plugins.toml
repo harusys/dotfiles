@@ -11,6 +11,3 @@ github = "zsh-users/zsh-completions"
 
 [plugins.zsh-syntax-highlighting]
 github = "zsh-users/zsh-syntax-highlighting"
-
-[plugins.z]
-github = "rupa/z"
