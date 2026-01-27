@@ -13,3 +13,6 @@ eval "$(starship init zsh)"
 
 # zoxide
 eval "$(zoxide init zsh)"
+
+# local bin
+export PATH="$HOME/.local/bin:$PATH"
