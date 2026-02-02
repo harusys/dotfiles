@@ -2,6 +2,9 @@
 export PS1="%. $ "
 alias xargs="gxargs"
 
+# git-wt
+eval "$(git wt --init zsh)"
+
 # mise
 eval "$(mise activate zsh)"
 
