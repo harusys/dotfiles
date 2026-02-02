@@ -1,3 +1,20 @@
+[alias]
+aa = add .
+ba = branch -a
+s = switch
+sm = switch -
+sc = switch -c
+ca = commit --amend --no-edit
+cm = commit -m
+st = status
+f = fetch
+r = rebase
+ri = rebase -i
+lo = log --oneline
+po = push origin HEAD
+pf = push --force-with-lease --force-if-includes origin HEAD
+undo = reset HEAD^ --mixed
+
 [user]
         name = {{ .name }}
         email = {{ .email }}
