@@ -10,5 +10,7 @@
         gpgsign = true
 [tag]
         gpgsign = true
+[ghq]
+        root = ~/ghq
 [gpg]
         format = ssh
