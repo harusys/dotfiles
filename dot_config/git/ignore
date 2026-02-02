@@ -1,0 +1,4 @@
+.DS_Store
+node_modules/
+.mise.toml
+.mise.local.toml
