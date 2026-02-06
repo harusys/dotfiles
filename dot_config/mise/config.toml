@@ -14,7 +14,6 @@ kubectl = "latest"
 kubectx = "latest"
 kubens = "latest"
 pnpm = "latest"
-uv = "latest"
 
 # npm Packages
 "npm:@anthropic-ai/claude-code" = "latest"
