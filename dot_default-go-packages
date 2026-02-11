@@ -4,3 +4,4 @@ golang.org/x/tools/cmd/goimports
 honnef.co/go/tools/cmd/staticcheck
 github.com/cweill/gotests/gotests
 go.uber.org/mock/mockgen
+github.com/grafana/mcp-grafana/cmd/mcp-grafana
