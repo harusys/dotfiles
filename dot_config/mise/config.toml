@@ -16,7 +16,6 @@ kubens = "latest"
 pnpm = "latest"
 
 # npm Packages
-"npm:@anthropic-ai/claude-code" = "latest"
 "npm:@google/gemini-cli" = "latest"
 "npm:@openai/codex" = "latest"
 "npm:rulesync" = "latest"
