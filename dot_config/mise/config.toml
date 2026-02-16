@@ -14,6 +14,7 @@ kubectl = "latest"
 kubectx = "latest"
 kubens = "latest"
 pnpm = "latest"
+bun = "latest"
 
 # npm Packages
 "npm:@google/gemini-cli" = "latest"
