@@ -19,4 +19,3 @@ bun = "latest"
 # npm Packages
 "npm:@google/gemini-cli" = "latest"
 "npm:@openai/codex" = "latest"
-"npm:rulesync" = "latest"
