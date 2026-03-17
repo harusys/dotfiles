@@ -10,6 +10,7 @@ terraform = "latest"
 # Tools
 fzf = "latest"
 gcloud = "latest"
+golangci-lint = "latest"
 kubectl = "latest"
 kubectx = "latest"
 kubens = "latest"
