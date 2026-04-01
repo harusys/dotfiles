@@ -14,6 +14,7 @@ golangci-lint = "latest"
 kubectl = "latest"
 kubectx = "latest"
 kubens = "latest"
+pinact = "latest"
 pnpm = "latest"
 bun = "latest"
 
