@@ -17,7 +17,3 @@ kubens = "latest"
 pinact = "latest"
 pnpm = "latest"
 bun = "latest"
-
-# npm Packages
-"npm:@google/gemini-cli" = "latest"
-"npm:@openai/codex" = "latest"
