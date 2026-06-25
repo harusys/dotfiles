@@ -6,3 +6,4 @@ github.com/cweill/gotests/gotests
 go.uber.org/mock/mockgen
 github.com/grafana/mcp-grafana/cmd/mcp-grafana
 github.com/googleapis/genai-toolbox
+github.com/k1LoW/runn
