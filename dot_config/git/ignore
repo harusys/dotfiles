@@ -1,4 +1,5 @@
 .DS_Store
-node_modules/
 .mise.toml
 .mise.local.toml
+node_modules/
+settings.local.json
